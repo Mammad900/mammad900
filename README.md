@@ -20,7 +20,10 @@ github.users["Mammad900"].about= {
     "contact": {
         "E-mail": "mohammadhosseinbedi052 [at] gmail [dot] com",
         "Telegram": "@Mammad900",
-        "WhatsApp": "403: WhatsApp does not have permission to be used by Mammad900"
+        "WhatsApp": {
+            "error_code": 403,
+            "description": "WhatsApp does not have permission to be used by Mammad900"
+        }
     }
 }
 ```
