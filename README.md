@@ -1,7 +1,13 @@
 ```js
 github.users["Mammad900"].about= {
     "name": "Mohammad Hossein Abedi",
-    "age": 14,
+    "age": 403,
+    "interests": [
+        new Subject("Programming"), 
+        new Product("SpaceX", "Starship"), 
+        new Product("Telegram", "Telegram"), // Telegram by Telegram from Telegram 
+        new Game("Assassin's Creed") 
+    }, 
     "skills": {
         "programming-languages": [
             "JS", "C#", // More skill
