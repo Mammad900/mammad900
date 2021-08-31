@@ -1,12 +1,16 @@
 ```js
+require("assert").assert(document.reader.understands("JavaScript");
+
 github.users["Mammad900"].about= {
     "name": "Mohammad Hossein Abedi",
     "age": 403,
     "interests": [
         new Subject("Programming"), 
-        new Product("SpaceX", "Starship"), 
-        new Product("Telegram", "Telegram"), // Telegram by Telegram from Telegram 
-        new Game("Assassin's Creed") 
+        new Product(Product.categories["hardware"]["rocket"]["SHLLV"] /*SuperHeavyLiftLaunchVehicle*/, 
+                    "SpaceX", "Starship"), 
+        new Product(Product.categories["software"]["application"]["messenger"],
+                    "Telegram", "Telegram"), // Telegram by Telegram from Telegram 
+        new Game.Franchise("Ubisoft", "Assassin's Creed")/*.pirate()*/ 
     }, 
     "skills": {
         "programming-languages": [
@@ -20,7 +24,12 @@ github.users["Mammad900"].about= {
             "YAML", "textile" // Less skill
         ],
         "platforms": [
-            "nodeJS", ".NET", "Arduino", "Web", "Wordpress"
+            ".NET", "Arduino", "Web", "Wordpress"
+        ],
+        "libraries": [
+            require("react"),
+            require("tdlib"),
+            await includeWASM(await emscripten.compile(await arduino.downloadLibrary("MCUFRIEND_kbv"))) // Arduino library MCUFRIEND_kbv
         ]
     },
     "contact": {
