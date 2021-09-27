@@ -8,7 +8,7 @@ github.users["Mammad900"].about= {
         new Subject("Programming"), 
         new Product(Product.categories["hardware"]["rocket"]["SHLLV"] /*SuperHeavyLiftLaunchVehicle*/, 
                     "SpaceX", "Starship"), 
-        new Product(Product.categories["software"]["application"]["messenger"],
+        new App(App.categories["application"]["messenger"],
                     "Telegram", "Telegram"), // Telegram by Telegram from Telegram 
         new Game.Franchise("Ubisoft", "Assassin's Creed")/*.pirate()*/ 
     }, 
