@@ -4,6 +4,10 @@ require("assert").assert(document.reader.understands("JavaScript");
 github.users["Mammad900"].about= {
     "name": "Mohammad Hossein Abedi",
     "age": 403,
+    "current-projects": [
+        new GitHub.Repository("DIBgram/DIBgram"), 
+        new GitHub.Repository({...repoData, private: true}) 
+    ], 
     "interests": [
         new Subject("Programming"), 
         new Product(Product.categories["hardware"]["rocket"]["SHLLV"] /*SuperHeavyLiftLaunchVehicle*/, 
@@ -14,8 +18,8 @@ github.users["Mammad900"].about= {
     }, 
     "skills": {
         "programming-languages": [
-            "JS", "C#", // More skill
-            "C++", "Python", "PHP", // Medium skill
+            "JS", "TS", // More skill
+            "C#", "C++", "Python", "PHP", // Medium skill
             "SQL", "C" // Less skill
         ],
         "markup-languages": [
@@ -24,7 +28,7 @@ github.users["Mammad900"].about= {
             "YAML", "textile" // Less skill
         ],
         "platforms": [
-            ".NET", "Arduino", "Web", "Wordpress"
+            "Web", ".NET", "Arduino", "Wordpress"
         ],
         "libraries": [
             require("react"),
