@@ -1,48 +1,32 @@
-```js
-require("assert").assert(document.reader.understands("JavaScript");
+My full name: _Mohammad Hoseein Abedi_  
 
-github.users["Mammad900"].about= {
-    "name": "Mohammad Hossein Abedi",
-    "age": 403,
-    "current-projects": [
-        new GitHub.Repository("DIBgram/DIBgram"), 
-        new GitHub.Repository({...repoData, private: true}) 
-    ], 
-    "interests": [
-        new Subject("Programming"), 
-        new Product(Product.categories["hardware"]["rocket"]["SHLLV"] /*SuperHeavyLiftLaunchVehicle*/, 
-                    "SpaceX", "Starship"), 
-        new App(App.categories["application"]["messenger"],
-                    "Telegram", "Telegram"), // Telegram by Telegram from Telegram 
-        new Game.Franchise("Ubisoft", "Assassin's Creed")/*.pirate()*/ 
-    }, 
-    "skills": {
-        "programming-languages": [
-            "JS", "TS", // More skill
-            "C#", "C++", "Python", "PHP", // Medium skill
-            "SQL", "C" // Less skill
-        ],
-        "markup-languages": [
-            "HTML", "CSS", "Markdown", // More skill
-            "XML", // Medium skill
-            "YAML", "textile" // Less skill
-        ],
-        "platforms": [
-            "Web", ".NET", "Arduino", "Wordpress"
-        ],
-        "libraries": [
-            require("react"),
-            require("tdlib"),
-            await includeWASM(await emscripten.compile(await arduino.downloadLibrary("MCUFRIEND_kbv"))) // Arduino library MCUFRIEND_kbv
-        ]
-    },
-    "contact": {
-        "E-mail": "mohammadhosseinbedi052 [at] gmail [dot] com",
-        "Telegram": "@Mammad900",
-        "WhatsApp": new ValueError("The sum of properties 'privacy', 'security', 'usability' must be greater than 0")
-    }
-}
-```
+## Current projects
+
+- [DIBgram](github.com/dibgram) (web Telegram app similar to TDesktop)
+- Home_modules (smart home platform, in progress)
+- File-manipulator (multimedia file conversion and editing library in TypeScript)
+
+## Skills
+
+- Web development
+  - HTML
+  - CSS / SCSS
+  - JS/TS
+    - I use TS for almost all of my recent projects
+  - React
+    - Redux
+    - React-router (newbie)
+- Arduino (not active)
+- Python (not active)
+- PHP (not active)
+- Wordpress (not active)
+- Telegram
+  - TDLib
+  - Bot API (little skill)
+  
+## Contact
+
+Telegram: [@Mammad900](t.me/mammad900) (try to avoid PMing, use groups instead.)
 
 <!--
 **Mammad900/mammad900** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
