@@ -1,4 +1,6 @@
-My full name: _Mohammad Hoseein Abedi_  
+My full name: _Mohammad Hoseein Abedi_
+
+He/Him
 
 ## Current projects
 
@@ -13,10 +15,14 @@ My full name: _Mohammad Hoseein Abedi_
   - CSS / SCSS
   - JS/TS
     - I use TS for almost all of my recent projects
+    - Node
+    - JSX
+    - ESM
   - React
     - Redux
     - React-router (newbie)
 - Arduino (not active)
+  - MCUFRIEND_kbv library (TFT touchscreen)
 - Python (not active)
 - PHP (not active)
 - Wordpress (not active)
