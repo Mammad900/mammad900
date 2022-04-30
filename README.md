@@ -1,12 +1,22 @@
 My full name: _Mohammad Hoseein Abedi_
 
+Age: this year minus 2007
+
 He/Him
 
-## Current projects
+## Projects
 
+### Complete
+- [Gui900](github.com/Mammad900/Gui900) (UI framework for Arduino TFT Touchscreens)
+- [Auto AutoRun](https://github.com/Mammad900/Auto-AutoRun) (An autorun to use in installation disks)
+
+### In progress
 - [DIBgram](github.com/dibgram) (web Telegram app similar to TDesktop)
 - Home_modules (smart home platform, in progress)
 - File-manipulator (multimedia file conversion and editing library in TypeScript)
+
+### Future
+- A video game about spies
 
 ## Skills
 
@@ -15,12 +25,12 @@ He/Him
   - CSS / SCSS
   - JS/TS
     - I use TS for almost all of my recent projects
-    - Node
+    - NodeJS
     - JSX
     - ESM
   - React
     - Redux
-    - React-router (newbie)
+    - React-router (new)
 - Arduino (not active)
   - MCUFRIEND_kbv library (TFT touchscreen)
 - Python (not active)
@@ -28,11 +38,11 @@ He/Him
 - Wordpress (not active)
 - Telegram
   - TDLib
-  - Bot API (little skill)
+  - Bot API (new)
   
 ## Contact
 
-Telegram: [@Mammad900](t.me/mammad900) (try to avoid PMing, use groups instead.)
+Telegram: [@Mammad900](t.me/mammad900) (Please message me in a related group if possible. Only PM if it is important / not applicable for groups)
 
 <!--
 **Mammad900/mammad900** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
