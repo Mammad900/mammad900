@@ -7,16 +7,16 @@ He/Him
 ## Projects
 
 ### Complete
-- [Gui900](github.com/Mammad900/Gui900) (UI framework for Arduino TFT Touchscreens)
+- [Gui900](https://github.com/Mammad900/Gui900) (UI framework for Arduino TFT Touchscreens)
 - [Auto AutoRun](https://github.com/Mammad900/Auto-AutoRun) (An autorun to use in installation disks)
 
 ### In progress
-- [DIBgram](github.com/dibgram) (web Telegram app similar to TDesktop)
-- Home_modules (smart home platform, in progress)
+- [DIBgram](https://github.com/dibgram) (web Telegram app similar to TDesktop)
+- Home_modules (smart home platform)
 - File-manipulator (multimedia file conversion and editing library in TypeScript)
 
 ### Future
-- A video game about spies
+- A video game
 
 ## Skills
 
@@ -42,7 +42,7 @@ He/Him
   
 ## Contact
 
-Telegram: [@Mammad900](t.me/mammad900) (Please message me in a related group if possible. Only PM if it is important / not applicable for groups)
+Telegram: [@Mammad900](https://t.me/mammad900) (Please message me in a related group if possible. Only PM if it is important / not applicable for groups)
 
 <!--
 **Mammad900/mammad900** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
