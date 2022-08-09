@@ -1,4 +1,5 @@
-My full name: _Mohammad Hoseein Abedi_
+My full name: _Mohammad Hossein Abedi_  
+Nickname: Mammad
 
 Age: this year minus 2007
 
@@ -7,38 +8,39 @@ He/Him
 ## Projects
 
 ### Complete
-- [Gui900](https://github.com/Mammad900/Gui900) (UI framework for Arduino TFT Touchscreens)
-- [Auto AutoRun](https://github.com/Mammad900/Auto-AutoRun) (An autorun to use in installation disks)
+- **[Gui900](https://github.com/Mammad900/Gui900)** (UI framework for Arduino TFT Touchscreens, not maintained anymore)
+- **[Auto AutoRun](https://github.com/Mammad900/Auto-AutoRun)** (An autorun to use in installation disks)
+- **File-manipulator** (multimedia file conversion and editing library in TypeScript, not published yet)
 
 ### In progress
-- [DIBgram](https://github.com/dibgram) (web Telegram app similar to TDesktop)
-- Home_modules (smart home platform)
-- File-manipulator (multimedia file conversion and editing library in TypeScript)
-
-### Future
-- A video game
+- **[DIBgram](https://github.com/dibgram)** (Telegram web-app that looks like TDesktop)
+- **Home_modules** (smart home platform)
+- **A video game**
 
 ## Skills
 
-- Web development
-  - HTML
-  - CSS / SCSS
-  - JS/TS
+- **Web development**
+  - **HTML**
+  - **CSS / SCSS**
+  - **JS/TS**
     - I use TS for almost all of my recent projects
-    - NodeJS
-    - JSX
-    - ESM
-  - React
-    - Redux
-    - React-router (new)
-- Arduino (not active)
-  - MCUFRIEND_kbv library (TFT touchscreen)
-- Python (not active)
-- PHP (not active)
-- Wordpress (not active)
-- Telegram
-  - TDLib
-  - Bot API (new)
+    - **NodeJS**
+    - **JSX**
+    - **ESM**
+  - **React**
+    - **Redux**
+    - **React router**
+- **Arduino** _(not active)_
+  - **MCUFRIEND_kbv** _(TFT screen library)_
+- **Python** _(not active)_
+- **PHP** _(not active)_
+- **C#** _(wasn't active for some time)_
+- **Wordpress** _(not active)_
+- **Telegram**
+  - **TDLib**
+  - **Bot API** _(new, not very active)_
+- **Unity** _(learning)_
+  - **UI Toolkit** _(almost learned)_
   
 ## Contact
 
