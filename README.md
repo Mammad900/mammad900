@@ -14,7 +14,7 @@ He/Him
 
 ### In progress
 - **[DIBgram](https://github.com/dibgram)** (Telegram web-app that looks like TDesktop)
-- **Home_modules** (smart home platform)
+- **[Home_modules](https://github.com/Home-modules)** (smart home platform)
 - **A video game**
 
 ## Skills
