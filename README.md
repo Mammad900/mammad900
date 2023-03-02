@@ -33,7 +33,7 @@ He/Him
 - **Arduino** _(not active)_
   - **MCUFRIEND_kbv** _(TFT screen library)_
 - **Python** _(not active)_
-- **PHP** _(not active)_
+- **PHP** _(not active, will never be active)_
 - **C#** _(wasn't active for some time)_
 - **Wordpress** _(not active)_
 - **Telegram**
