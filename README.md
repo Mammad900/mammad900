@@ -35,6 +35,7 @@ He/Him
 - **Python** _(not active)_
 - **PHP** _(not active, will never be active)_
 - **C#** _(wasn't active for some time)_
+- **C++** 
 - **Wordpress** _(not active)_
 - **Telegram**
   - **TDLib**
