@@ -14,7 +14,7 @@ He/Him
 
 ### In progress
 - **[Home_modules](https://github.com/Home-modules)** (smart home platform)
-- **[Gui900 v2](https://github.com/Mammad900/Gui900-v2)
+- **[Gui900 v2](https://github.com/Mammad900/Gui900-v2)**
 - **[DIBgram](https://github.com/dibgram)** (Telegram web-app that looks like TDesktop, paused)
 - **A video game** (paused)
 
