@@ -13,20 +13,20 @@ He/Him
 - **File-manipulator** (multimedia file conversion and editing library in TypeScript, not published yet)
 
 ### In progress
-- **[DIBgram](https://github.com/dibgram)** (Telegram web-app that looks like TDesktop)
 - **[Home_modules](https://github.com/Home-modules)** (smart home platform)
-- **A video game**
+- **[Gui900 v2](https://github.com/Mammad900/Gui900-v2)
+- **[DIBgram](https://github.com/dibgram)** (Telegram web-app that looks like TDesktop, paused)
+- **A video game** (paused)
 
 ## Skills
 
+- **SysAdmin for my house**
 - **Web development**
   - **HTML**
   - **CSS / SCSS**
   - **JS/TS**
     - I use TS for almost all of my recent projects
     - **NodeJS**
-    - **JSX**
-    - **ESM**
   - **React**
     - **Redux**
     - **React router**
@@ -40,7 +40,7 @@ He/Him
 - **Telegram**
   - **TDLib**
   - **Bot API** _(new, not very active)_
-- **Unity** _(learning)_
+- **Unity** _(learning, paused)_
   - **UI Toolkit** _(almost learned)_
   
 ## Contact
