@@ -8,15 +8,21 @@ He/Him
 ## Projects
 
 ### Complete
-- **[Gui900](https://github.com/Mammad900/Gui900)** (UI framework for Arduino TFT Touchscreens, not maintained anymore)
-- **[Auto AutoRun](https://github.com/Mammad900/Auto-AutoRun)** (An autorun to use in installation disks)
-- **File-manipulator** (multimedia file conversion and editing library in TypeScript, not published yet)
+- **[Gui900](https://github.com/Mammad900/Gui900)**: UI framework for Arduino TFT Touchscreens, not maintained anymore
+- **[Auto AutoRun](https://github.com/Mammad900/Auto-AutoRun)**: An autorun to use in installation disks
+- **File-manipulator**: Multimedia file conversion and editing library in TypeScript, not published yet
+#### Web apps
+- **Util**: Contains some utilities for my personal use. Includes a mathjs calculator and dots&boxes game. 
+- **Pong**: The classic pong game remade in JS with new mechanics, started as a project by @amir-kht that I forked and continued myself
+- **Bouncing DVD Logo**: The websites I tried sucked so I made my own
+- **Goatman**: Performance demo for rendering thousands of moving text objects, with the content "goatman". Also started by @amir-kht and forked by me
 
 ### In progress
 - **[Home_modules](https://github.com/Home-modules)** (smart home platform)
 - **[Gui900 v2](https://github.com/Mammad900/Gui900-v2)**
 - **[DIBgram](https://github.com/dibgram)** (Telegram web-app that looks like TDesktop, paused)
 - **A video game** (paused)
+- **Hell**: A mod for _Factorio: Space Age_ that adds a new endgame planet with difficult enemies but high rewards, in early development, most of the content design is done but barely anything implemented. May or may not survive.
 
 ## Skills
 
