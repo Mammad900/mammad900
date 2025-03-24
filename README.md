@@ -12,10 +12,10 @@ He/Him
 - **[Auto AutoRun](https://github.com/Mammad900/Auto-AutoRun)**: An autorun to use in installation disks
 - **File-manipulator**: Multimedia file conversion and editing library in TypeScript, not published yet
 #### Web apps
-- **Util**: Contains some utilities for my personal use. Includes a mathjs calculator and dots&boxes game. 
-- **Pong**: The classic pong game remade in JS with new mechanics, started as a project by @amir-kht that I forked and continued myself
-- **Bouncing DVD Logo**: The websites I tried sucked so I made my own
-- **Goatman**: Performance demo for rendering thousands of moving text objects, with the content "goatman". Also started by @amir-kht and forked by me
+- **[Util](https://github.com/Mammad900/util-app)**: Contains some utilities for my personal use. Includes a mathjs calculator and dots&boxes game. 
+- **[Pong](https://github.com/Mammad900/pong)**: The classic pong game remade in JS with new mechanics, started as a project by @amir-kht that I forked and continued myself
+- **[Bouncing DVD Logo](https://github.com/Mammad900/bouncing-dvd-logo)**: The websites I tried sucked so I made my own
+- **Goatman**: Performance demo for rendering thousands of moving text objects, with the content "goatman". Also started by @amir-kht and forked by me. The code can be found in the Bouncing DVD Logo repo. 
 
 ### In progress
 - **[Home_modules](https://github.com/Home-modules)** (smart home platform)
@@ -23,6 +23,8 @@ He/Him
 - **[DIBgram](https://github.com/dibgram)** (Telegram web-app that looks like TDesktop, paused)
 - **A video game** (paused)
 - **Hell**: A mod for _Factorio: Space Age_ that adds a new endgame planet with difficult enemies but high rewards, in early development, most of the content design is done but barely anything implemented. May or may not survive.
+- **AnyDesign**: A React UI framework that tries to match its design with the user's operating system. Super early in development.
+- A 3D rendering engine from scratch on an Arduino Due (mostly for learning and challenge purposes)
 
 ## Skills
 
@@ -33,13 +35,14 @@ He/Him
   - **JS/TS**
     - I use TS for almost all of my recent projects
     - **NodeJS**
+    - **Bun**
   - **React**
     - **Redux**
     - **React router**
 - **Arduino** _(not active)_
   - **MCUFRIEND_kbv** _(TFT screen library)_
 - **Python** _(not active)_
-- **PHP** _(not active, will never be active)_
+- **PHP** _(not active, will never be active again)_
 - **C#** _(wasn't active for some time)_
 - **C++** 
 - **Wordpress** _(not active)_
