@@ -3,8 +3,6 @@ Nickname: Mammad
 
 Age: this year minus 2007
 
-He/Him
-
 ## Projects
 
 ### Complete
