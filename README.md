@@ -15,18 +15,22 @@ Age: this year minus 2007
 - **[Bouncing DVD Logo](https://github.com/Mammad900/bouncing-dvd-logo)**: The websites I tried sucked so I made my own
 - **Goatman**: Performance demo for rendering thousands of moving text objects, with the content "goatman". Also started by @amir-kht and forked by me. The code can be found in the Bouncing DVD Logo repo. 
 
-### In progress
+### In Progress (usable but not mature)
 - **[Home_modules](https://github.com/Home-modules)** (smart home platform)
 - **[Gui900 v2](https://github.com/Mammad900/Gui900-v2)**
+- [A 3D software rasterizing engine from scratch on C++](https://github.com/Mammad900/3d-renderer-cpu) (mostly for learning and challenge purposes)
+
+
+### In Progress (very early, not usable yet)
 - **[DIBgram](https://github.com/dibgram)** (Telegram web-app that looks like TDesktop, paused)
-- **A video game** (paused)
 - **Hell**: A mod for _Factorio: Space Age_ that adds a new endgame planet with difficult enemies but high rewards, in early development, most of the content design is done but barely anything implemented. May or may not survive.
 - **AnyDesign**: A React UI framework that tries to match its design with the user's operating system. Super early in development.
-- A 3D rendering engine from scratch on an Arduino Due (mostly for learning and challenge purposes)
 
 ## Skills
 
-- **SysAdmin for my house**
+- **Linux**
+  - Permanently switch from Windows to Ubuntu since around 2022
+  - Managing a linux home server
 - **Web development**
   - **HTML**
   - **CSS / SCSS**
@@ -49,10 +53,7 @@ Age: this year minus 2007
   - **Bot API** _(new, not very active)_
 - **Unity** _(learning, paused)_
   - **UI Toolkit** _(almost learned)_
-  
-## Contact
-
-Telegram: [@Mammad900](https://t.me/mammad900) (Please message me in a related group if possible. Only PM if it is important / not applicable for groups)
+- **Godot** _(learning)_
 
 <!--
 **Mammad900/mammad900** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
