@@ -42,24 +42,20 @@ Age: this year minus 2007
     - **NodeJS**
     - **Bun**
   - **React**
-    - **Redux**
-    - **React router**
-- **Arduino** _(not active)_
+    - **Redux** _(not active)_
+    - **React router** _(not active)_
+- **Arduino**
   - **MCUFRIEND_kbv** _(TFT screen library)_
 - **C#** _(used occasionally)_
-- **C++** _(semi active)_
+- **C++**
   - **SFML**
   - **Dear ImGui**
 - **Lua**
 
 ### Noob++
 
-- **Wordpress** _(not active)_
 - **Telegram** _(a little experience)_
   - **TDLib**
   - **Bot API**
-- **Unity** _(learning, paused)_
-  - **UI Toolkit** _(almost learned)_
 - **Godot** _(learning)_
 - **Python** _(not active)_
-- **PHP** _(not active, hate it)_
