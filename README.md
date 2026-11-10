@@ -20,12 +20,14 @@ Age: this year minus 2007
 ### In Progress (usable but not mature)
 - **[Home_modules](https://github.com/Home-modules)**: Modular smart home platform
 - **[Gui900 v2](https://github.com/Mammad900/Gui900-v2)**: GUI framework for Arduino touchscreens.
+- **[CompoUI](https://github.com/Mammad900/CompoUI)**: A flexible OpenGL based GUI library
 
 ### In Progress (very early, not usable yet)
 - **[DIBgram](https://github.com/dibgram)**: Telegram web-app that looks like TDesktop. Shelved.
 - **Hell**: A mod for _Factorio: Space Age_ that adds a new endgame planet with difficult enemies but high rewards, in early development, most of the content design is done but barely anything implemented. May or may not survive.
 - **AnyDesign**: A React UI framework that tries to match its design with the user's operating system. Super early in development. May be impossible.
 - A commercial malware detection and analysis service
+- A video game based on CompoUI, focused around spaceships and hacking
 
 ## Skills
 
